@@ -1,0 +1,4 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+bin.1	50.34	3.2	36.36	43.4819	61.54%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus acetotolerans
+bin.2	0	0	0	13.4179	18.99%	
+bin.3	0	0	0	13.7595	19.47%	

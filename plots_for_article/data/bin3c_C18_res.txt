@@ -1,0 +1,10 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+CL001	100	2.36	18.18	35.635	1.70%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Mesorhizobium;s__Mesorhizobium sp004136315
+CL006	100	0.5	0	151.156	7.23%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Acetobacter;s__Acetobacter ghanensis
+CL005	99.38	2.66	0	359.748	17.21%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Secundilactobacillus;s__
+CL003	98.26	0	0	28.2292	1.35%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales_A;f__Rhizobiaceae_A;g__Phyllobacterium;s__Phyllobacterium sp900539805
+CL007	93.25	17.89	93.22	1432.63	68.54%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Oenococcus;s__Oenococcus sp004010835
+CL004	91.19	3.47	28	10.6574	0.51%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Agrobacterium;s__Agrobacterium pusense
+CL002	90.23	2.75	8.33	10.5258	0.50%	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Rhodococcus;s__Rhodococcus erythropolis
+CL008	0	0	0	38.4491	1.84%	
+CL009	0	0	0	23.04795	1.10%	

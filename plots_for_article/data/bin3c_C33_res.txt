@@ -1,0 +1,14 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+CL003	94.68	0.71	36.36	121.501	9.00%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__Tatumella ptyseos
+CL002	92.82	0.92	0	90.2403	6.68%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__
+CL004	18.2	0.33	100	12.07865	0.89%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__
+CL010	5.02	0	0	330.3415	24.46%	
+CL008	4.17	0	0	9.901525	0.73%	
+CL005	3.94	0	0	47.834	3.54%	
+CL007	1.04	0	0	25.0756	1.86%	
+CL011	0.16	0	0	25.18205	1.86%	
+CL012	0.16	0	0	25.1888	1.87%	
+CL006	0	0	0	11.22815	0.83%	
+CL009	0	0	0	9.69013	0.72%	
+CL013	0	0	0	496.985	36.81%	
+CL014	0	0	0	9.46942	0.70%	

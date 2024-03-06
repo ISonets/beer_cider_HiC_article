@@ -1,0 +1,8 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+bin.2	100	181.08	30.17	10.84285	0.59%	
+bin.5	99.38	2.66	0	334.826	18.28%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Secundilactobacillus;s__
+bin.4	94.56	25.77	80.9	1099.57	60.04%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Oenococcus;s__Oenococcus sp004010835
+bin.3	68.66	0	0	130.33	7.12%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Acetobacter;s__Acetobacter ghanensis
+bin.7	66.97	0.52	0	10.73805	0.59%	d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Rhodococcus;s__Rhodococcus erythropolis
+bin.1	18.97	0	0	105.966	5.79%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Acetobacter;s__Acetobacter ghanensis
+bin.6	0	0	0	139.015	7.59%	

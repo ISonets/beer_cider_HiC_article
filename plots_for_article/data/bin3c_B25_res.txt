@@ -1,0 +1,6 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+CL03	99.38	0	0	2352.3	59.03%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Pediococcus;s__Pediococcus damnosus
+CL02	99.06	0.28	40	1317.06	33.05%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus_G;s__Lactobacillus_G brevis
+CL01	98.64	0	0	234.6815	5.89%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus_C;s__Lactobacillus_C paracasei
+CL05	4.87	0	0	45.3935	1.14%	
+CL04	1.36	0	0	35.3694	0.89%	

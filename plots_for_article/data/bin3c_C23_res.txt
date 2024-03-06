@@ -1,0 +1,18 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+CL005	98.4	0.53	100	59.6514	3.66%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Oenococcus;s__Oenococcus oeni
+CL003	95.87	1.44	37.5	963.5015	59.19%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__Tatumella ptyseos
+CL001	95.79	4.34	69.7	55.26555	3.40%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__Pseudomonas_E syringae
+CL002	93.46	7.53	63.16	46.4305	2.85%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Pantoea;s__Pantoea agglomerans
+CL004	34.48	1.72	100	79.3159	4.87%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__
+CL007	8.33	0	0	86.374	5.31%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__
+CL014	5.17	0	0	11.0101	0.68%	
+CL008	5.04	0.14	0	6.55385	0.40%	
+CL017	4.17	0	0	26.5763	1.63%	
+CL016	3.45	0	0	16.7095	1.03%	
+CL006	0	0	0	59.7015	3.67%	
+CL009	0	0	0	29.5715	1.82%	
+CL010	0	0	0	45.90015	2.82%	
+CL011	0	0	0	50.7804	3.12%	
+CL012	0	0	0	29.1351	1.79%	
+CL013	0	0	0	31.458	1.93%	
+CL015	0	0	0	29.8115	1.83%	

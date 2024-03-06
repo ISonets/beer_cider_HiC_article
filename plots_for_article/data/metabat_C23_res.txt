@@ -1,0 +1,6 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+bin.1	97.89	0.53	0	222.662	51.39%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Oenococcus;s__Oenococcus oeni
+bin.3	97.65	97.38	39.78	54.14775	12.50%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__Tatumella ptyseos
+bin.2	85.49	1.79	62.5	57.5478	13.28%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__Pseudomonas_E syringae
+bin.4	40.52	0	0	50.1361	11.57%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Pantoea;s__Pantoea agglomerans
+bin.5	3.45	0	0	48.8023	11.26%	

@@ -1,0 +1,9 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+bin.5	97.2	313.42	45.24	53.9279	11.76%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__
+bin.3	91.73	1.94	4.17	18.5994	4.06%	d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Pediococcus;s__Pediococcus damnosus
+bin.7	58.91	1.16	66.67	19.75285	4.31%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Gluconacetobacter;s__
+bin.4	22.41	0	0	37.2242	8.12%	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Gluconobacter_A;s__Gluconobacter_A cerinus
+bin.6	1.52	0	0	275.222	60.02%	
+bin.8	0.31	0	0	10.67865	2.33%	
+bin.1	0	0	0	26.77425	5.84%	
+bin.2	0	0	0	16.3517	3.57%	

@@ -1,0 +1,5 @@
+MAG ID	Completeness	Contamination	Strain heterogeneity	Coverage	Coverage %	Taxonomy
+bin.5	72.05	94.97	80	19.76575	6.39%	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Tatumella;s__Tatumella ptyseos
+bin.4	4.82	0	0	51.9338	16.80%	
+bin.3	2.96	0	0	12.0482	3.90%	
+bin.1	0	0	0	16.59315	5.37%	
